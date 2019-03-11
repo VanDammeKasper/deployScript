@@ -1,6 +1,6 @@
 # deployScript
 
-move the file "deployScript.sh" to the directory of with certificates you want to deploy
+move the file "deployScript.sh" to the directory with certificates you want to deploy
 
 change directory to the file's directory
 
